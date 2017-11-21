@@ -3,3 +3,6 @@ https://www.coursera.org/learn/algorithms-part1/home/info
 
 specification for assignment1:
 http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
+
+specification for assignment2:
+http://coursera.cs.princeton.edu/algs4/assignments/queues.html
