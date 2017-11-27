@@ -9,3 +9,6 @@ http://coursera.cs.princeton.edu/algs4/assignments/queues.html
 
 specifivation for assignment3:
 http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
+
+specification for assignment4:
+http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
