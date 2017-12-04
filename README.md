@@ -12,3 +12,6 @@ http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
 
 specification for assignment4:
 http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
+
+specification for assignment5:
+http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
